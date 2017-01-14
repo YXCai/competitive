@@ -1,0 +1,11 @@
+2
+3
+Betty Velma
+Velma Chris
+Delta Alpha
+5
+Monday Tuesday
+Tuesday Thursday
+Wednesday Friday
+Monday Wednesday
+Monday Friday
