@@ -1,5 +1,13 @@
 Problems - Status (Solved, In-Progress, On-hold)
 
+    ----------------------- ON-HOLD-------------------------
+
+
+    ----------------------- IN-PROGRESS --------------------
+
     Virtual Friends - In-Progress
     Kastenlauf - In-Progress
 
+    ----------------------- COMPLETED ----------------------
+
+    Closest Sum - Complete
